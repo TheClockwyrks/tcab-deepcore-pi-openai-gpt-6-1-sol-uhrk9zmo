@@ -1,0 +1,10 @@
+{
+  "sample_rate": 22050,
+  "channels": "stereo",
+  "max_duration_ms": 4000,
+  "seed": 817,
+  "actions": "tools/audio-logs/drill.json",
+  "preview": "tools/audio-logs/drill.png",
+  "wav": "assets/audio/drill.wav",
+  "mid": "assets/audio/drill.mid"
+}

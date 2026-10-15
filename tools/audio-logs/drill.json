@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add_voice",
+    "name": "body",
+    "wave": "saw",
+    "freq": 66.0,
+    "gain": -22.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 500.0
+  }
+]

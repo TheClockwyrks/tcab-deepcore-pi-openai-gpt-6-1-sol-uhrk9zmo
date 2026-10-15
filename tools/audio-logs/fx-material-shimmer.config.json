@@ -1,0 +1,11 @@
+{
+  "width": 400,
+  "height": 400,
+  "duration": 2,
+  "duration_ms": 2000,
+  "fps": 24,
+  "seed": 17,
+  "actions": "tools/audio-logs/fx-material-shimmer.json",
+  "preview": "tools/audio-logs/fx-material-shimmer.gif",
+  "system": "assets/fx/material-shimmer.json"
+}

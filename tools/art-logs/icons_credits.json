@@ -1,0 +1,7 @@
+[
+  { "op": "fill_circle", "cx": 12, "cy": 12, "r": 10, "color": "#e3c580" },
+  { "op": "fill_circle", "cx": 12, "cy": 12, "r": 7, "color": "#605840" },
+  { "op": "line", "x0": 12, "y0": 5, "x1": 12, "y1": 19, "color": "#fff0b3" },
+  { "op": "line", "x0": 8, "y0": 8, "x1": 16, "y1": 8, "color": "#fff0b3" },
+  { "op": "line", "x0": 8, "y0": 16, "x1": 16, "y1": 16, "color": "#fff0b3" }
+]

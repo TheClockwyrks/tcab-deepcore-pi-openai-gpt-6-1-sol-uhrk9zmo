@@ -1,0 +1,15 @@
+[[media]]
+file = "haul.json.gz"
+name = "A rich vein and the return shaft"
+
+[[media]]
+file = "deepstone.png"
+name = "Molten seams and buried Cryenite"
+
+[[media]]
+file = "surface.png"
+name = "The only outpost on the rock"
+
+[[media]]
+file = "rockbed.png"
+name = "A scanner lock in the Rockbed"

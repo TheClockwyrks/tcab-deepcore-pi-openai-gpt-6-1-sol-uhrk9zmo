@@ -1,0 +1,22 @@
+[
+  {
+    "op": "add_voice",
+    "name": "body",
+    "wave": "noise",
+    "freq": 200.0,
+    "gain": -14.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 450.0
+  },
+  {
+    "op": "add_voice",
+    "name": "sub",
+    "wave": "sine",
+    "freq": 200.0,
+    "gain": -16.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 450.0
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "width": 400,
+  "height": 400,
+  "duration": 2,
+  "duration_ms": 2000,
+  "fps": 24,
+  "seed": 17,
+  "actions": "tools/audio-logs/fx-impact-dust.json",
+  "preview": "tools/audio-logs/fx-impact-dust.gif",
+  "system": "assets/fx/impact-dust.json"
+}

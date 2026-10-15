@@ -1,0 +1,34 @@
+[
+  {
+    "op": "add_voice",
+    "name": "body",
+    "wave": "noise",
+    "freq": 60.0,
+    "gain": -14.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 260.0
+  },
+  {
+    "op": "add_voice",
+    "name": "sub",
+    "wave": "sine",
+    "freq": 60.0,
+    "gain": -16.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 260.0
+  },
+  {
+    "op": "add_sample",
+    "name": "impact_metal_hollow",
+    "t_ms": 0.0,
+    "gain": -20.0,
+    "pitch": -3.0,
+    "trim_in_ms": null,
+    "trim_out_ms": null,
+    "fade_in_ms": 0.0,
+    "fade_out_ms": 0.0,
+    "reverse": false
+  }
+]

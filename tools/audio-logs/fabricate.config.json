@@ -1,0 +1,10 @@
+{
+  "sample_rate": 22050,
+  "channels": "stereo",
+  "max_duration_ms": 4000,
+  "seed": 817,
+  "actions": "tools/audio-logs/fabricate.json",
+  "preview": "tools/audio-logs/fabricate.png",
+  "wav": "assets/audio/fabricate.wav",
+  "mid": "assets/audio/fabricate.mid"
+}

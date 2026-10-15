@@ -1,0 +1,28 @@
+[
+  {
+    "op": "fill_rect",
+    "x": 0,
+    "y": 0,
+    "width": 80,
+    "height": 80,
+    "color": "#18232b"
+  },
+  { "op": "fill_circle", "cx": 40, "cy": 75, "r": 39, "color": "#788079" },
+  { "op": "fill_circle", "cx": 40, "cy": 77, "r": 32, "color": "#09131d" },
+  {
+    "op": "fill_rect",
+    "x": 8,
+    "y": 65,
+    "width": 5,
+    "height": 15,
+    "color": "#c5ac78"
+  },
+  {
+    "op": "fill_rect",
+    "x": 67,
+    "y": 65,
+    "width": 5,
+    "height": 15,
+    "color": "#c5ac78"
+  }
+]

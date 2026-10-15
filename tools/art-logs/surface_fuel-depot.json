@@ -1,0 +1,243 @@
+[
+  {
+    "op": "fill_rect",
+    "x": 8,
+    "y": 158,
+    "width": 224,
+    "height": 20,
+    "color": "#17232a"
+  },
+  {
+    "op": "fill_rect",
+    "x": 3,
+    "y": 155,
+    "width": 234,
+    "height": 5,
+    "color": "#9b9c86"
+  },
+  {
+    "op": "fill_rect",
+    "x": 17,
+    "y": 69,
+    "width": 205,
+    "height": 86,
+    "color": "#263c46"
+  },
+  {
+    "op": "fill_rect",
+    "x": 20,
+    "y": 73,
+    "width": 199,
+    "height": 7,
+    "color": "#6a7e7b"
+  },
+  {
+    "op": "fill_rect",
+    "x": 20,
+    "y": 81,
+    "width": 199,
+    "height": 70,
+    "color": "#344b53"
+  },
+  { "op": "line", "x0": 22, "y0": 83, "x1": 22, "y1": 151, "color": "#2b414b" },
+  { "op": "line", "x0": 38, "y0": 83, "x1": 38, "y1": 151, "color": "#2b414b" },
+  { "op": "line", "x0": 54, "y0": 83, "x1": 54, "y1": 151, "color": "#2b414b" },
+  { "op": "line", "x0": 70, "y0": 83, "x1": 70, "y1": 151, "color": "#2b414b" },
+  { "op": "line", "x0": 86, "y0": 83, "x1": 86, "y1": 151, "color": "#2b414b" },
+  {
+    "op": "line",
+    "x0": 102,
+    "y0": 83,
+    "x1": 102,
+    "y1": 151,
+    "color": "#2b414b"
+  },
+  {
+    "op": "line",
+    "x0": 118,
+    "y0": 83,
+    "x1": 118,
+    "y1": 151,
+    "color": "#2b414b"
+  },
+  {
+    "op": "line",
+    "x0": 134,
+    "y0": 83,
+    "x1": 134,
+    "y1": 151,
+    "color": "#2b414b"
+  },
+  {
+    "op": "line",
+    "x0": 150,
+    "y0": 83,
+    "x1": 150,
+    "y1": 151,
+    "color": "#2b414b"
+  },
+  {
+    "op": "line",
+    "x0": 166,
+    "y0": 83,
+    "x1": 166,
+    "y1": 151,
+    "color": "#2b414b"
+  },
+  {
+    "op": "line",
+    "x0": 182,
+    "y0": 83,
+    "x1": 182,
+    "y1": 151,
+    "color": "#2b414b"
+  },
+  {
+    "op": "line",
+    "x0": 198,
+    "y0": 83,
+    "x1": 198,
+    "y1": 151,
+    "color": "#2b414b"
+  },
+  {
+    "op": "line",
+    "x0": 214,
+    "y0": 83,
+    "x1": 214,
+    "y1": 151,
+    "color": "#2b414b"
+  },
+  {
+    "op": "fill_rect",
+    "x": 26,
+    "y": 61,
+    "width": 185,
+    "height": 13,
+    "color": "#a5a58b"
+  },
+  {
+    "op": "fill_rect",
+    "x": 31,
+    "y": 62,
+    "width": 172,
+    "height": 3,
+    "color": "#d6cc9f"
+  },
+  {
+    "op": "fill_rect",
+    "x": 38,
+    "y": 91,
+    "width": 70,
+    "height": 43,
+    "color": "#101e2a"
+  },
+  {
+    "op": "fill_rect",
+    "x": 42,
+    "y": 95,
+    "width": 62,
+    "height": 29,
+    "color": "#438086"
+  },
+  {
+    "op": "fill_rect",
+    "x": 45,
+    "y": 96,
+    "width": 55,
+    "height": 4,
+    "color": "#a7d7be"
+  },
+  {
+    "op": "fill_rect",
+    "x": 123,
+    "y": 88,
+    "width": 58,
+    "height": 65,
+    "color": "#162a35"
+  },
+  {
+    "op": "fill_rect",
+    "x": 130,
+    "y": 97,
+    "width": 40,
+    "height": 10,
+    "color": "#b9b995"
+  },
+  {
+    "op": "fill_rect",
+    "x": 145,
+    "y": 118,
+    "width": 18,
+    "height": 7,
+    "color": "#e7b75e"
+  },
+  {
+    "op": "fill_rect",
+    "x": 27,
+    "y": 77,
+    "width": 5,
+    "height": 77,
+    "color": "#87908a"
+  },
+  { "op": "fill_circle", "cx": 29, "cy": 84, "r": 2, "color": "#d6c6a0" },
+  {
+    "op": "fill_rect",
+    "x": 211,
+    "y": 77,
+    "width": 5,
+    "height": 77,
+    "color": "#87908a"
+  },
+  { "op": "fill_circle", "cx": 213, "cy": 84, "r": 2, "color": "#d6c6a0" },
+  { "op": "fill_circle", "cx": 45, "cy": 46, "r": 20, "color": "#152530" },
+  {
+    "op": "fill_rect",
+    "x": 28,
+    "y": 23,
+    "width": 34,
+    "height": 44,
+    "color": "#a89565"
+  },
+  {
+    "op": "fill_rect",
+    "x": 31,
+    "y": 27,
+    "width": 8,
+    "height": 36,
+    "color": "#ded0a2"
+  },
+  {
+    "op": "fill_rect",
+    "x": 40,
+    "y": 37,
+    "width": 20,
+    "height": 8,
+    "color": "#bf714b"
+  },
+  { "op": "fill_circle", "cx": 93, "cy": 46, "r": 20, "color": "#152530" },
+  {
+    "op": "fill_rect",
+    "x": 76,
+    "y": 23,
+    "width": 34,
+    "height": 44,
+    "color": "#a89565"
+  },
+  {
+    "op": "fill_rect",
+    "x": 79,
+    "y": 27,
+    "width": 8,
+    "height": 36,
+    "color": "#ded0a2"
+  },
+  {
+    "op": "fill_rect",
+    "x": 88,
+    "y": 37,
+    "width": 20,
+    "height": 8,
+    "color": "#bf714b"
+  }
+]

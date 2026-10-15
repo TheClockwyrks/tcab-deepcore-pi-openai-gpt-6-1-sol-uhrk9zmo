@@ -1,0 +1,54 @@
+[
+  {
+    "op": "add_voice",
+    "name": "body",
+    "wave": "sine",
+    "freq": 880.0,
+    "gain": -14.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 200.0
+  },
+  {
+    "op": "add_voice",
+    "name": "o0",
+    "wave": "sine",
+    "freq": 1100.0,
+    "gain": -23.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 200.0
+  },
+  {
+    "op": "add_voice",
+    "name": "o1",
+    "wave": "sine",
+    "freq": 1320.0,
+    "gain": -23.0,
+    "pan": 0.0,
+    "start_ms": 50.0,
+    "dur_ms": 200.0
+  },
+  {
+    "op": "add_voice",
+    "name": "o2",
+    "wave": "sine",
+    "freq": 1760.0,
+    "gain": -23.0,
+    "pan": 0.0,
+    "start_ms": 100.0,
+    "dur_ms": 200.0
+  },
+  {
+    "op": "add_sample",
+    "name": "mech_clip_load",
+    "t_ms": 0.0,
+    "gain": -22.0,
+    "pitch": 5.0,
+    "trim_in_ms": null,
+    "trim_out_ms": null,
+    "fade_in_ms": 0.0,
+    "fade_out_ms": 0.0,
+    "reverse": false
+  }
+]

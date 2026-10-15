@@ -1,0 +1,10 @@
+{
+  "sample_rate": 22050,
+  "channels": "stereo",
+  "max_duration_ms": 4000,
+  "seed": 817,
+  "actions": "tools/audio-logs/death.json",
+  "preview": "tools/audio-logs/death.png",
+  "wav": "assets/audio/death.wav",
+  "mid": "assets/audio/death.mid"
+}

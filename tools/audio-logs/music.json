@@ -1,0 +1,429 @@
+[
+  {
+    "op": "set_tempo",
+    "bpm": 80
+  },
+  {
+    "op": "define_track",
+    "name": "bass",
+    "instrument": "sine"
+  },
+  {
+    "op": "define_track",
+    "name": "pulse",
+    "instrument": "triangle"
+  },
+  {
+    "op": "define_track",
+    "name": "air",
+    "instrument": "sine"
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 62,
+    "t_beats": 0.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "bass",
+    "pitch": 38,
+    "t_beats": 0.0,
+    "dur_beats": 3.7,
+    "velocity": 47
+  },
+  {
+    "op": "add_note",
+    "track": "air",
+    "pitch": 74,
+    "t_beats": 0.0,
+    "dur_beats": 3.8,
+    "velocity": 20
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 69,
+    "t_beats": 1.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 74,
+    "t_beats": 2.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 65,
+    "t_beats": 3.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 64,
+    "t_beats": 4.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "bass",
+    "pitch": 38,
+    "t_beats": 4.0,
+    "dur_beats": 3.7,
+    "velocity": 47
+  },
+  {
+    "op": "add_note",
+    "track": "air",
+    "pitch": 74,
+    "t_beats": 4.0,
+    "dur_beats": 3.8,
+    "velocity": 20
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 69,
+    "t_beats": 5.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 72,
+    "t_beats": 6.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 57,
+    "t_beats": 7.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 62,
+    "t_beats": 8.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "bass",
+    "pitch": 34,
+    "t_beats": 8.0,
+    "dur_beats": 3.7,
+    "velocity": 47
+  },
+  {
+    "op": "add_note",
+    "track": "air",
+    "pitch": 77,
+    "t_beats": 8.0,
+    "dur_beats": 3.8,
+    "velocity": 20
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 69,
+    "t_beats": 9.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 74,
+    "t_beats": 10.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 65,
+    "t_beats": 11.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 64,
+    "t_beats": 12.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "bass",
+    "pitch": 34,
+    "t_beats": 12.0,
+    "dur_beats": 3.7,
+    "velocity": 47
+  },
+  {
+    "op": "add_note",
+    "track": "air",
+    "pitch": 77,
+    "t_beats": 12.0,
+    "dur_beats": 3.8,
+    "velocity": 20
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 69,
+    "t_beats": 13.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 72,
+    "t_beats": 14.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 57,
+    "t_beats": 15.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 62,
+    "t_beats": 16.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "bass",
+    "pitch": 41,
+    "t_beats": 16.0,
+    "dur_beats": 3.7,
+    "velocity": 47
+  },
+  {
+    "op": "add_note",
+    "track": "air",
+    "pitch": 72,
+    "t_beats": 16.0,
+    "dur_beats": 3.8,
+    "velocity": 20
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 69,
+    "t_beats": 17.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 74,
+    "t_beats": 18.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 65,
+    "t_beats": 19.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 64,
+    "t_beats": 20.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "bass",
+    "pitch": 41,
+    "t_beats": 20.0,
+    "dur_beats": 3.7,
+    "velocity": 47
+  },
+  {
+    "op": "add_note",
+    "track": "air",
+    "pitch": 72,
+    "t_beats": 20.0,
+    "dur_beats": 3.8,
+    "velocity": 20
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 69,
+    "t_beats": 21.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 72,
+    "t_beats": 22.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 57,
+    "t_beats": 23.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 62,
+    "t_beats": 24.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "bass",
+    "pitch": 36,
+    "t_beats": 24.0,
+    "dur_beats": 3.7,
+    "velocity": 47
+  },
+  {
+    "op": "add_note",
+    "track": "air",
+    "pitch": 69,
+    "t_beats": 24.0,
+    "dur_beats": 3.8,
+    "velocity": 20
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 69,
+    "t_beats": 25.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 74,
+    "t_beats": 26.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 65,
+    "t_beats": 27.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 64,
+    "t_beats": 28.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "bass",
+    "pitch": 36,
+    "t_beats": 28.0,
+    "dur_beats": 3.7,
+    "velocity": 47
+  },
+  {
+    "op": "add_note",
+    "track": "air",
+    "pitch": 69,
+    "t_beats": 28.0,
+    "dur_beats": 3.8,
+    "velocity": 20
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 69,
+    "t_beats": 29.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 72,
+    "t_beats": 30.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "add_note",
+    "track": "pulse",
+    "pitch": 57,
+    "t_beats": 31.0,
+    "dur_beats": 0.6,
+    "velocity": 34
+  },
+  {
+    "op": "set_track_fx",
+    "track": "bass",
+    "gain": -11.0,
+    "pan": 0.0,
+    "reverb": 0.3,
+    "env": "swell"
+  },
+  {
+    "op": "set_track_fx",
+    "track": "pulse",
+    "gain": -11.0,
+    "pan": -0.25,
+    "reverb": 0.3,
+    "env": "pluck"
+  },
+  {
+    "op": "set_track_fx",
+    "track": "air",
+    "gain": -11.0,
+    "pan": 0.3,
+    "reverb": 0.3,
+    "env": "swell"
+  }
+]

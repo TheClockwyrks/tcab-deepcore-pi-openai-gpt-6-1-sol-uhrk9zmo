@@ -1,0 +1,10 @@
+{
+  "sample_rate": 22050,
+  "channels": "stereo",
+  "max_duration_ms": 24000,
+  "seed": 817,
+  "actions": "tools/audio-logs/music.json",
+  "preview": "tools/audio-logs/music.png",
+  "wav": "assets/audio/music.wav",
+  "mid": "assets/audio/music.mid"
+}

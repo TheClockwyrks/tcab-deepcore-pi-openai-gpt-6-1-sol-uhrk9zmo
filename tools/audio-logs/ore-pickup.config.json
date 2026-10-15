@@ -1,0 +1,10 @@
+{
+  "sample_rate": 22050,
+  "channels": "stereo",
+  "max_duration_ms": 4000,
+  "seed": 817,
+  "actions": "tools/audio-logs/ore-pickup.json",
+  "preview": "tools/audio-logs/ore-pickup.png",
+  "wav": "assets/audio/ore-pickup.wav",
+  "mid": "assets/audio/ore-pickup.mid"
+}

@@ -1,0 +1,10 @@
+{
+  "sample_rate": 22050,
+  "channels": "stereo",
+  "max_duration_ms": 4000,
+  "seed": 817,
+  "actions": "tools/audio-logs/material-chime.json",
+  "preview": "tools/audio-logs/material-chime.png",
+  "wav": "assets/audio/material-chime.wav",
+  "mid": "assets/audio/material-chime.mid"
+}

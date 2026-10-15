@@ -1,0 +1,10 @@
+{
+  "sample_rate": 22050,
+  "channels": "stereo",
+  "max_duration_ms": 4000,
+  "seed": 817,
+  "actions": "tools/audio-logs/alarm-fuel.json",
+  "preview": "tools/audio-logs/alarm-fuel.png",
+  "wav": "assets/audio/alarm-fuel.wav",
+  "mid": "assets/audio/alarm-fuel.mid"
+}
